@@ -2,6 +2,8 @@
 
 > A Firebase chat with Vue.js
 
+Code is based on tutorial from [vuejsdevelopers.com](https://vuejsdevelopers.com/2017/10/16/vue-js-firestore/).
+
 ## Build Setup
 
 ``` bash
